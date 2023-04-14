@@ -4,9 +4,14 @@ import './Footer.css'
 function Footer() {
   return (
     <div className="footer">
-        <h1>
-        Footer
-        </h1>
+        <div className="footer__left">
+
+        </div>
+        <div className="footer__center">
+
+        </div>
+        <div className="footer__right">
+          </div>
     </div>
   )
 }
